@@ -1,0 +1,3 @@
+Datasets from the fantastic stats software JASP:
+
+https://jasp-stats.org/getting-started/
