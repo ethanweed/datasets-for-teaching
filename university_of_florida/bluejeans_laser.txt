@@ -1,0 +1,17 @@
+dataset: bluejeans_laser.csv
+
+Source: Z. Ondogan, O. Pamuk, E.N. Ondogan, A. Ozguney (2005).
+"Improving the Appearance of All Textile Products from Clothing to Home
+Textile Using Laser Technology," Optics and Laser Technology, Vol. 37,
+pp. 631-637.
+
+Description: Experiment comparing tensile strength and extension of blue
+jeans that were designed manually and with laser beams. 20 pairs of jeans
+per design method, 3 replicates per pair of jeans. N=2(20)(3) =120.
+
+Variables:
+methid
+jeanid
+sampleid
+strength
+extension
