@@ -1,0 +1,1 @@
+This data set contains information on 78 people using one of three diets. The dataset is primarily used for ANOVA.

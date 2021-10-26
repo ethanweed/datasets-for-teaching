@@ -1,0 +1,13 @@
+Source: M.C. Gould and F.A.C. Perrin (1916), "A Comparison of
+the FactorsInvolved in the Maze Learning of Human Adults and Children",
+Journal of Experimental Psychology, Vol. 1, p.122--
+
+Description: Subject Id's, Group (adult/child), number of
+trials in maze, total errors, and average errors.
+
+Variables/Columns
+Subject name  1-4
+Group   16  /* 1=Adult, 2=Child  */
+Number of trials   22-24
+Total errors      29-32
+Average Errors    36-40
