@@ -1,1 +1,18 @@
-This data set gives a variety of variables by US state at two time points 10 years apart. A variety of regressions and t-tests can be carried out with the main scale dependent being and Crime Rate (offences per million population) and t-tests with the independent being whether or not the state is in the south. Mostly discrete variables as they measure populations per 1000, there are some continuous variables such as those measuring expenditure
+This data set gives a variety of variables by US state at two time points 10 years apart. A variety of regressions and t-tests can be carried out with the main scale dependent being and Crime Rate (offences per million population) and t-tests with the independent being whether or not the state is in the south. Mostly discrete variables as they measure populations per 1000, there are some continuous variables such as those measuring expenditure.
+
+
+| CrimeRate          | Crime rate (number of offences per million population)             | Continuous |
+|--------------------|--------------------------------------------------------------------|------------|
+| Youth              | Young males (number of males aged 18-24 per 1000)                  | Discrete   |
+| Southern           | Southern state 1 = yes, 0 = no                                     | Binary     |
+| Education          | Education time (average number of years schooling up to 25)        | Discrete   |
+| ExpenditureYear0   | Expenditure (per capita expenditure on police)  skewed             | Continuous |
+| LabourForce        | Youth labour force (males employed 18-24 per 1000)                 | Discrete   |
+| Males              | Males (per 1000 females)                                           | Discrete   |
+| MoreMales          | More males identified per 1000 females 1 = yes, 0 = no             | Binary     |
+| StateSize          | State size (in hundred thousands)                                  | Discrete   |
+| YouthUnemployment  | Youth Unemployment (number of males aged 18-24 per 1000) skewed    | Discrete   |
+| MatureUnemployment | Mature Unemployment (number of males aged 35-39 per 1000)          | Discrete   |
+| HighYouthUnemploy  | High Youth Unemployment 1 = yes, 0 = no (high if Youth >3*Mature ) | Binary     |
+| Wage               | Wage (median weekly wage)                                          | Continuous |
+| BelowWage          | Below Wage (number of families below half wage per 1000)           | Discrete   |
