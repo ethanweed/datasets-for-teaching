@@ -27,3 +27,5 @@ http://users.stat.ufl.edu/~winner/datasets.html
 # pages with links
 
 https://guides.emich.edu/data/free-data
+
+https://github.com/talhanai/speech-nlp-datasets
